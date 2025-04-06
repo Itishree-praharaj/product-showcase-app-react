@@ -2,6 +2,16 @@
 - application accessed by following i'd and password
 - username - admin@gmail.com
 - password - Admin@123
+# Summary of Key Packages:
+- React: npm install react - Core library for building the user interface.
+
+- React-DOM: npm install react-dom - Handles rendering and interaction between React and the DOM.
+
+- Tailwind CSS: npm install tailwindcss - A utility-first CSS framework for styling.
+
+- Lucide React: npm install lucide-react - Icon library for React.
+
+- Vite: Used for fast project bundling and development server.
 #  Summary of Technologies Used:
 - Frontend: React.js (JSX, useState), Tailwind CSS, Lucide Icons, Custom Modals
 
